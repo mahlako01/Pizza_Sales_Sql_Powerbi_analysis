@@ -26,6 +26,14 @@ Hourly Trend of Orders
 
 Pizza Category Sales % (Pie Chart)
 
+Daily Trend For Total Orders
+
+% of Sales by Pizza Category
+
+% of Sales by Pizza Quantity
+
+% of Sales by Total Orders
+
 🛠️ Tools Used
 
 SQL (MySQL)
